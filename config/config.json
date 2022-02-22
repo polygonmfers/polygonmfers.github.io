@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x89c20A993A2E9DED7BC2C355dbff8d02BFc00F7c",
+  "SCAN_LINK": "https://polygonscan.com/address/0x89c20A993A2E9DED7BC2C355dbff8d02BFc00F7c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "polygonpixelmfers",
+  "SYMBOL": "pixelmfers",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 5500000000000000000,
+  "DISPLAY_COST": 5.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polygonmfers",
+  "SHOW_BACKGROUND": false
+}
